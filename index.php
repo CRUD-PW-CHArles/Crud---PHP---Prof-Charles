@@ -25,7 +25,7 @@
                 <li class="nav-item">
                 <a class="nav-link" href="?page=listar">Listar Contatos</a>
                 </li>
-                <p>Teste2</p>              
+                <p>Teste5</p>              
             </ul>
             </div>
         </div>
