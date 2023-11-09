@@ -24,7 +24,8 @@
                 </li>
                 <li class="nav-item">
                 <a class="nav-link" href="?page=listar">Listar Contatos</a>
-                </li>              
+                </li>
+                <p>Teste2</p>              
             </ul>
             </div>
         </div>
